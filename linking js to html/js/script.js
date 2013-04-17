@@ -1,4 +1,9 @@
 // JavaScript
 
-//this changes the css of your body tag to be green
-document.querySelector("body").style.backgroundColor= "#00FF00";
+var yearBorn = 1983;
+/*
+console.log('Hello World!');
+console.log (yearBorn);
+    */
+
+alert(yearBorn);
