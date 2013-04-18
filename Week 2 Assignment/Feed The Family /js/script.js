@@ -7,4 +7,5 @@
                             42
  */
 
+var eggs = 1; // each egg
 
