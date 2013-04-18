@@ -1,7 +1,5 @@
-// Expressions - Concatentating Strings
+// Expressions - Assignments Operators
 
-var a = "6";
-var b = "7";
-
-var result = a + b;
-console.log(result);
+var a = 3;
+a ++ + 1; // a = a +4
+console.log(a);
