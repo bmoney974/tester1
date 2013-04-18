@@ -15,4 +15,6 @@ var kid = 2;
 
 var daysInWeek = 7; // number of days in a week
 
+var total =  (mom + dad + kid * eggs) * daysInWeek;
+
 
