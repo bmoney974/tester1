@@ -13,5 +13,6 @@ var mom = 2;  // each person will eat 2 eggs
 var dad = 2;
 var kid = 2;
 
+var daysInWeek = 7; // number of days in a week
 
 
