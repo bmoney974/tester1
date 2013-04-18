@@ -4,6 +4,7 @@
 /* mom dad and kid will eat 6 eggs a day
                          x  7 days a week
                           ______
+                            42
  */
 
 
