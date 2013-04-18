@@ -9,3 +9,9 @@
 
 var eggs = 1; // each egg
 
+var mom = 2;  // each person will eat 2 eggs
+var dad = 2;
+var kid = 2;
+
+
+
