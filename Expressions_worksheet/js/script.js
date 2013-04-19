@@ -5,7 +5,10 @@
 var slices = 8;
 var people = 20;
 var pizzas = 5;
-var name = " Each person got"
+var name = " Sparky got"
 var name2 = " slices of pizza"
-var total = name + " " + (slices * pizzas ) /10 + " " + name2;
+var sparkysPizza = 0
+
+
+var total = name + " " + (slices * pizzas ) /10 * sparkysPizza + " " + name2;
 console.log(total);
