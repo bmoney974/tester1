@@ -4,7 +4,7 @@
     <list default="true" id="e9eaa05e-17b1-47b4-a2fe-17105cb238ca" name="Default" comment="" />
     <ignored path="Expressions_worksheet.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/script.js" changelist="e9eaa05e-17b1-47b4-a2fe-17105cb238ca" time="1366333505995" ignored="false" />
+    <file path="/script.js" changelist="e9eaa05e-17b1-47b4-a2fe-17105cb238ca" time="1366334359935" ignored="false" />
     <file path="/index.html" changelist="e9eaa05e-17b1-47b4-a2fe-17105cb238ca" time="1366330997178" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="21" selection-start="761" selection-end="761" vertical-scroll-proportion="0.5371901">
+            <state line="27" column="33" selection-start="774" selection-end="774" vertical-scroll-proportion="0.55785125">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -61,8 +61,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="112" />
-    <option name="y" value="59" />
+    <option name="x" value="52" />
+    <option name="y" value="54" />
     <option name="width" value="1440" />
     <option name="height" value="874" />
   </component>
@@ -147,7 +147,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="112" y="59" width="1440" height="874" extended-state="0" />
+    <frame x="52" y="54" width="1440" height="874" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -318,7 +318,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="21" selection-start="761" selection-end="761" vertical-scroll-proportion="0.5371901">
+        <state line="27" column="33" selection-start="774" selection-end="774" vertical-scroll-proportion="0.55785125">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
