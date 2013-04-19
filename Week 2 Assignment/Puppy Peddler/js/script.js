@@ -11,16 +11,17 @@
  total of 6 puppies left
  */
 
+
 var sale = 2; // how many puppies sold
 var give = 2; // how many puppies given away
+
 
 var litter1 = 6;  // puppies per litter
 var litter2 = 6;
 var litter3 = 6;
 
-
 var dog = [litter1, litter2, litter3];   // puppy array will be indexes 0,1,2
 
-var total =  [(dog[2]) - sale - give + (dog[1]) -sale -give + (dog[0]) - sale - give];
 
+var total =  [(dog[2]) - sale - give + (dog[1]) -sale -give + (dog[0]) - sale - give];
 console.log(total);
