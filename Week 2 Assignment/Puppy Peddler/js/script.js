@@ -11,4 +11,6 @@
  total of 6 puppies left
  */
 
+var sale = 2; // how many puppies sold
+var give = 2; // how many puppies given away
 
