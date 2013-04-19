@@ -2,11 +2,10 @@
 
 
 
-var name = "Sparky is 2 years old in human years so in dog years he is"
-  var sparkysAgeInHumanYears = 2;   //  human years
-
-  var sparkysAgeInDogYears = 7;     //  dog years
-
-var sparkysTrueAge = name + " " + sparkysAgeInHumanYears * sparkysAgeInDogYears;  //Arithmetic
-
-console.log(sparkysTrueAge);  // Sparky's age in dog years
+var slices = 8;
+var people = 20;
+var pizzas = 5;
+var name = " Each person got"
+var name2 = " slices of pizza"
+var total = name + " " + (slices * pizzas ) /10 + " " + name2;
+console.log(total);
