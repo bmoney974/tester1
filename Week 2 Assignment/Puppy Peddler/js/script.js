@@ -21,4 +21,5 @@ var litter3 = 6;
 
 var dog = [litter1, litter2, litter3];   // puppy array will be indexes 0,1,2
 
+var total =  [(dog[2]) - sale - give + (dog[1]) -sale -give + (dog[0]) - sale - give];
 
