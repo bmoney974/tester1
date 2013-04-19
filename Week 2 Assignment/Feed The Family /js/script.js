@@ -17,7 +17,7 @@ var name = "The total number of eggs for the week will be"
 
 var daysInWeek = 7; // number of days in a week
 var family = [mom, dad, kid]; // family array will be indexes 0,1,2
-var total =  name + " " + [ (family[0]) +(family[1]) + (family[2]) ] * eggs * daysInWeek;
+var total =  name + " " + [ (family[0]) +(family[1]) + (family[2]) ] * eggs * daysInWeek/1;
 
 
 
