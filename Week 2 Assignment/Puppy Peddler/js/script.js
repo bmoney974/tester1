@@ -14,3 +14,7 @@
 var sale = 2; // how many puppies sold
 var give = 2; // how many puppies given away
 
+var litter1 = 6;  // puppies per litter
+var litter2 = 6;
+var litter3 = 6;
+
