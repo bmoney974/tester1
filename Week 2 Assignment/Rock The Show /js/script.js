@@ -7,4 +7,7 @@
 
  $30 x 200 tickets = $6000 - total cost of $1000 = $5000 profit */
 
-var
+
+
+var tickets = 30; // cost of each ticket
+
