@@ -11,3 +11,9 @@
 
 var tickets = 30; // cost of each ticket
 
+var venue = 500;  // total expenses
+var dj = 250;
+var specialGuest = 250;
+
+
+
