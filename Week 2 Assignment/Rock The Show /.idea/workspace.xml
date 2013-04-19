@@ -4,7 +4,7 @@
     <list default="true" id="e9eaa05e-17b1-47b4-a2fe-17105cb238ca" name="Default" comment="" />
     <ignored path="Expressions_worksheet.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/script.js" changelist="e9eaa05e-17b1-47b4-a2fe-17105cb238ca" time="1366334702870" ignored="false" />
+    <file path="/script.js" changelist="e9eaa05e-17b1-47b4-a2fe-17105cb238ca" time="1366338430268" ignored="false" />
     <file path="/index.html" changelist="e9eaa05e-17b1-47b4-a2fe-17105cb238ca" time="1366330997178" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="43" selection-start="698" selection-end="698" vertical-scroll-proportion="0.5165289">
+            <state line="21" column="32" selection-start="640" selection-end="640" vertical-scroll-proportion="0.4338843">
               <folding />
             </state>
           </provider>
@@ -90,6 +90,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -110,7 +111,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -156,12 +156,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="22" width="1440" height="874" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24982357" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24982357" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -246,6 +246,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="43" selection-start="698" selection-end="698" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="50" selection-start="202" selection-end="202" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="19" selection-start="617" selection-end="617" vertical-scroll-proportion="0.0">
           <folding />
         </state>
@@ -302,7 +316,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="43" selection-start="698" selection-end="698" vertical-scroll-proportion="0.5165289">
+        <state line="21" column="32" selection-start="640" selection-end="640" vertical-scroll-proportion="0.4338843">
           <folding />
         </state>
       </provider>

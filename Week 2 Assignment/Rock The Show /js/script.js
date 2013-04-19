@@ -10,7 +10,7 @@
 
 
 var tickets = 30; // cost of each ticket
-
+var sign = "$"
 var venue = 500;  // total expenses
 var dj = 250;
 var specialGuest = 250;
@@ -19,7 +19,7 @@ var name = "After expenses the amount of money left will be"
 
 var cost = [venue, dj, specialGuest];   // cost array will be indexes 0,1,2
 
-var total = name + " " + ( tickets * 200 - [(cost[2]) + (cost[1]) + (cost[0])] );
+var total = name + " " + sign + ( tickets * 200 - [(cost[2]) + (cost[1]) + (cost[0])] );
 
 console.log(total);
 
