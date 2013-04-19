@@ -19,5 +19,5 @@ var cost = [venue, dj, specialGuest];   // cost array will be indexes 0,1,2
 
 var total = tickets * 200 - [(cost[2]) + (cost[1]) + (cost[0])];
 
-
+console.log(total);
 
