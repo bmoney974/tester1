@@ -15,5 +15,6 @@ var venue = 500;  // total expenses
 var dj = 250;
 var specialGuest = 250;
 
+var cost = [venue, dj, specialGuest];   // cost array will be indexes 0,1,2
 
 
