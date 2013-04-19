@@ -18,3 +18,7 @@ var litter1 = 6;  // puppies per litter
 var litter2 = 6;
 var litter3 = 6;
 
+
+var dog = [litter1, litter2, litter3];   // puppy array will be indexes 0,1,2
+
+
