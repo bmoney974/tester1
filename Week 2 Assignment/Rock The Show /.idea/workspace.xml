@@ -4,7 +4,7 @@
     <list default="true" id="e9eaa05e-17b1-47b4-a2fe-17105cb238ca" name="Default" comment="" />
     <ignored path="Expressions_worksheet.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/script.js" changelist="e9eaa05e-17b1-47b4-a2fe-17105cb238ca" time="1366330863997" ignored="false" />
+    <file path="/script.js" changelist="e9eaa05e-17b1-47b4-a2fe-17105cb238ca" time="1366331600357" ignored="false" />
     <file path="/index.html" changelist="e9eaa05e-17b1-47b4-a2fe-17105cb238ca" time="1366330997178" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="268" selection-end="268" vertical-scroll-proportion="0.1446281">
+            <state line="9" column="3" selection-start="339" selection-end="339" vertical-scroll-proportion="0.18595041">
               <folding />
             </state>
           </provider>
@@ -261,7 +261,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="268" selection-end="268" vertical-scroll-proportion="0.1446281">
+        <state line="9" column="3" selection-start="339" selection-end="339" vertical-scroll-proportion="0.18595041">
           <folding />
         </state>
       </provider>

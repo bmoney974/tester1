@@ -5,3 +5,6 @@
  We will sell the tickets for $30 each.
  We have 200 tickets
 
+ $30 x 200 tickets = $6000 - total cost of $1000 = $5000 profit */
+
+var
