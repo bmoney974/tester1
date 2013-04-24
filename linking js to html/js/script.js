@@ -1,5 +1,10 @@
-// Expressions - Assignments Operators
+// Conditional Logic
 
-var a = 3;
-a ++ + 1; // a = a +4
-console.log(a);
+var oldEnough = true;
+
+// if the hild is old enough, print to the console "you can ride"
+
+if(oldEnough){
+    // code performed if condition is true
+    console.log("You can ride the coaster!")
+}
