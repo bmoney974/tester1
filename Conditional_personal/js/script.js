@@ -4,3 +4,6 @@
 
 var check = prompt(" How Much is your check ");  // how much is check
 
+if(check >= 400  ){       // if check is greater than or equal to 400
+    console.log(" You can get an out fit and go to the movies")  // answer 1
+
