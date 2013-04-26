@@ -2,4 +2,5 @@
 // it's less than $300 i will stay home
 
 
+var check = prompt(" How Much is your check ");  // how much is check
 
