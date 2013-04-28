@@ -12,7 +12,7 @@ var level3 = 10
 var maxWeight =15
 
 
-waterInJug = true ? " Your account is current ...": " your account is past due"
+waterInJug = true ? "Yup Plenty of water in there": "Hey there's no water in there"
 if( waterInJug = true && water >= level1 && water < level2){       //how much water
     console.log(" Its Pretty Lite")  // answer 1
 } else if( waterInJug = true && water >= level2  && water < level3){    // how much data
