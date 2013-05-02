@@ -1,9 +1,9 @@
-// Functions - Parameters and Arguments
+// Functions - Returning Values
 
-function dogYears(age){   //< -- parameters   ( function definition )   ( storage containers for arguments )
-    var dogYears = age * 7;
-    console.log("Spark is " + dogYears + " years old");
+var total = calcArea(30, 20);     // storing the info in the variable
+
+function calcArea(w, h){
+    var area = w * h ;
+    return area;       // function is spitting the info out
 }
-var age1 = 4
-dogYears(age1);  // <-- arguments ( function call)
-dogYears(5);
+console.log(total);
