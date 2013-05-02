@@ -1,16 +1,9 @@
-// Functions - Variable Scope
-var width = 5;
+// Functions - Parameters and Arguments
 
-function outptMsg(){
-    console.log("Hello World");
+function dogYears(age){   //< -- parameters   ( function definition )   ( storage containers for arguments )
+    var dogYears = age * 7;
+    console.log("Spark is " + dogYears + " years old");
 }
-function calcArea(){
-    var width = 20;
-    var height = 30;
-    var area = width * height;
-    console.log(area);
-}
-calcArea();
-calcArea();
-calcArea();
-console.log(width);
+var age1 = 4
+dogYears(age1);  // <-- arguments ( function call)
+dogYears(5);
