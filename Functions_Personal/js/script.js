@@ -20,8 +20,11 @@ function calcBills(){
 
     if(amountLeft >= 300){
         console.log("You Can take her on a trip to the beach");   // result 2
-    }else if(amountLeft >200 && amountLeft < 300) {
-        console.log("You can take her to dinner")      //result 3
+    }else if(amountLeft <200 && amountLeft > 100) {
+        console.log("You can take her to dinner");      //result 3
+    }else if (amountLeft <= 100){
+        console.log("All you can afford is a lot of love");
+
     }
 }
 
