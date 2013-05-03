@@ -1,4 +1,4 @@
-// Bobby Newland Assignment Week 3
+// Bobby Newland Assignment Week 4
 // if we sell x amount of cds each week we will be able to buy a van at the end of the month after expenses
 
 var week1 = prompt ("Week 1 Number of Cds sold");     // prompts
