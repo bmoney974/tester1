@@ -5,21 +5,21 @@
 var houses = prompt("How many hen houses do you have?");
 var a = parseInt(houses);
 
-var eggMin = 500
+var eggMin = 500        // variables
 var eggMax = 1500
 
-var eggFarm = function(eggs, chickens){
-     var amount = (eggs * chickens) * houses
+var eggFarm = function(eggs, chickens){        // anonymous function
+     var amount = (eggs * chickens) * houses    // the calculation
 
-    return amount;
+    return amount;          // return the calculation
 
 
 }
 
-var totalEggs = eggFarm(20, 10);
+var totalEggs = eggFarm(20, 10);   // parameters
 
 if (totalEggs <= eggMin){
-    console.log("You only produced " + totalEggs + " this month, get more hen houses");
+    console.log("You only produced " + totalEggs + " this month, get more hen houses");    // else if statment
 }else if(totalEggs > eggMin && totalEggs <= eggMax){
     console.log("Good job! You produced " + totalEggs + " eggs that\'s enough for the month");
 }else if(totalEggs > eggMax){
